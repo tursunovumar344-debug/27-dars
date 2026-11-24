@@ -1,0 +1,324 @@
+header {
+    display: flex;
+    padding: 10px;
+    background-color: #2b2b2b;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 95.8%
+}
+h2 {
+    font-size: 24px;
+}
+.tugma {
+    display: flex;
+    gap: 20px;
+}
+.tugma1 {
+    color: white;
+    width: 60px;
+    border: none;
+    background-color: transparent;
+
+
+}
+.tugma2 {
+    color: #2b2b2b;
+    background-color: rgb(195, 120, 214);
+    width: 130px;
+    padding: 12px;
+    border-radius: 14px;
+    border: none;
+
+}
+main {
+    background-color: #2b2b2b;
+    width: 100%;
+    height: auto
+
+}
+.birinchi{
+    width: 100%;
+    height: 800px;
+    background-color: #2b2b2b;
+}
+.ota {
+    display: flex;
+    gap: 465px;
+
+  justify-content: center;
+    padding-top: 100px;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 525px;
+    height: 186px;
+  padding: 10px;
+  
+
+}
+.div2 {
+    width: 650px;
+    height: 600px;
+    background-color: #3c3a3a;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+h1 {
+    width: 600px;
+    height: 120px;
+    font-size: 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: #979494;
+    opacity: 40%;
+    padding-bottom: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.button3 {
+    width: 170px;
+    padding: 12px;
+    color: black;
+    background-color: rgb(201, 199, 84);
+    border-radius: 10px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rasm {
+    width: 650px;
+    height: 600px;
+}
+.ikkinchi{
+    padding: 24px;
+    border-top: 1px solid #979494;
+    border-bottom: 1px solid #979494;
+    margin-left: 110px;
+    margin-right: 90px;
+    height: 90px;
+}
+.rasm2{
+    padding: 20px;
+    width: 90%;
+}
+.uchinchi {
+    width: 90%;
+    height: auto;
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px;
+    border-radius: 25px;
+    margin-top:  100px;
+}
+.rasm3 {
+    width: 1400px;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+padding-left: 180px;
+}
+.tortinchi{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    align-items: center;
+    margin-top: 110px;
+    padding-left: 310px;
+}
+.tortinchiniki {
+    align-items: center;
+    text-align: center;
+    width: 260px;
+}
+.tort {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.beshinchi {
+    width: 90%;
+    height: auto;
+    background-color: rgb(219, 156, 219);
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px;
+    border-radius: 25px;
+    margin-top:  100px;
+}
+.beshinchiniki {
+    width: 1200px;
+    height: 600px;
+    color: black;
+   
+    justify-content: center;
+    padding-top: 40px;
+    padding-left: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.owens {
+    display: flex;
+    gap: 20px;
+
+}
+.johnny {
+    display: flex;
+    flex-direction: column;
+    gap: px;
+}
+.piy {
+    color: #373636;
+}
+
+
+
+.oltinchi{
+    width: 100%;
+    height: 800px;
+    background-color: #2b2b2b;
+    display: flex;
+
+}
+.oltinchi {
+    display: flex;
+    gap: 465px;
+
+  justify-content: center;
+    padding-top: 100px;
+}
+.birinchi-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 525px;
+    height: 186px;
+  padding: 10px;
+  
+
+}
+.ikkinchi-2 {
+    width: 650px;
+    height: 600px;
+    background-color: #84acb9;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+h1 {
+    width: 600px;
+    height: 120px;
+    font-size: 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: #979494;
+    opacity: 40%;
+    padding-bottom: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.tugma6 {
+    width: 170px;
+    padding: 12px;
+    color: black;
+    background-color: rgb(201, 199, 84);
+    border-radius: 10px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rasm {
+    width: 650px;
+    height: 600px;
+}
+footer {
+    background-color: #2b2b2b;
+    color: white;
+    padding: 35px 28px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+       border-top: 1px solid #474444;
+}
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.wallet {
+  
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.wallet22 {
+    display: flex;
+    align-items: center;
+    gap: 500px;
+    flex-wrap: wrap;
+    font-size: 11px;
+   
+
+}
+.link {
+    display: flex;
+}
+ul {
+    display: flex;
+    gap: 30px ;
+    list-style: none;
+    margin-left: -20px;
+    font-size: 18px;
+}
+.p6 {
+    color: rgb(233, 233, 233);
+    font-size: 20px;
+    font-weight: 100px;
+}
+.ikkinchi6 {
+    display: flex;
+margin-top: -80px;
+    flex-direction: column;
+}
+.addres {
+    display: flex;
+    gap: 15px;
+    padding-bottom: 30px;
+}
+.tugma-f {
+    width: 200px;
+    padding: 10px;
+    color: #a19c9c;
+    background-color: #474444;
+    border-radius: 10px;
+    border: none;
+  text-align: left;
+
+}
+.tugma-f2 {
+    width: 100px;
+    padding: 10px;
+    color: black;
+    background-color: rgb(232, 145, 232);
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+
